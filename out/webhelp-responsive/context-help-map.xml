@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_apn_qz3_kz" path="c-intro.html"/>
+   <appContext helpID="task_lqk_jz3_kz" path="t-choosingday.html"/>
+   <appContext helpID="websites_for_recipes" path="m-websites.html"/>
+   <appContext helpID="topic_l13_wsm_lz" path="l-wholefoods.html"/>
+   <appContext helpID="topic_byr_yzm_lz" path="l-cleaningkitchen.html"/>
+   <appContext helpID="cranberry_mimosa" path="m-cranberry.html"/>
+   <appContext helpID="" path="l-bananalightweight.html"/>
+   <appContext helpID="" path="t-avocado.html"/>
+   <appContext helpID="task_irz_zm5_lz" path="t-quiche.html"/>
+   <appContext helpID="task_n2s_gj5_lz" path="t-tots.html"/>
+   <appContext helpID="setting_up_for_brunch" path="m-settingtable.html"/>
+   <appContext helpID="finally_dig_in" path="m-final.html"/>
+</map>

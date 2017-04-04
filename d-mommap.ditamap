@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Cookbook for Armando</title>
+ <title>Breakfast Tips For My Momma:) </title>
  <topicref href="c-intro.dita"></topicref>
  <topichead navtitle="Getting Started">
   <topicmeta>
@@ -23,7 +23,7 @@
   <topicref href="l-bananalightweight.dita" navtitle="Banana Nut Flap Jacks"></topicref>
   <topicref href="t-avocado.dita" format="markdown">
    <topicmeta>
-    <shortdesc>TWhat better way to eat something than out of an avocado</shortdesc>
+    <shortdesc>What better way to eat something than out of an avocado</shortdesc>
    </topicmeta>
   </topicref>
   <topicref href="t-quiche.dita"></topicref>
