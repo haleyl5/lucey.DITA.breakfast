@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qhm_zt5_lz">
+    <title>Caprese Stuffed Avocados </title>
+    <shortdesc>I don't think I can go a day without eating something that has avocado in it or on
+        it. Avocados have become such a fad, everyone loves them. This recipe is to die for and
+        needs to be included in your brunch! </shortdesc>
+    <taskbody>
+        <context>
+            <p>Below are the ingredients, materials, and steps needed to make this one of a kind
+                dish. </p>
+            <p><b>Ingredients </b></p>
+            <ul id="ul_sjd_bk5_lz">
+                <li>2 avocados, pitted</li>
+                <li>1/2 cup  cherry tomatoes, halved</li>
+                <li audience="mom">1/2 cup mini marinated mozzarella balls, halved</li>
+                <li>balsamic vinegar</li>
+                <li>Extra virgin olive oil</li>
+                <li>kosher salt</li>
+                <li>Freshly ground black pepper</li>
+                <li>Basil </li>
+            </ul> 
+            
+            <p><b>Instructions</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Scoop out the insides of the avocado, leaving a small amount around the
+                    rim.</cmd>
+            </step>
+            <step>
+                <cmd>Diced the scooped out avocado and set aside </cmd>
+            </step>
+            <step>
+                <cmd>In a large bowl add in diced avocado, tomatoes, balsamic, and olive oil. Mix
+                    together</cmd>
+            </step>
+            <step>
+                <cmd audience="mom">Add in mozzerella balls</cmd>
+            </step>
+            <step>
+                <cmd>Add salt and pepper, mix everything together</cmd>
+            </step>
+            <step>
+                <cmd>Add the mixture to the avocado halves </cmd>
+            </step>
+            <step>
+                <cmd>Serve and eat up! </cmd>
+                <info>
+                    <p><image href="735b39c33b9d0caf216abf85da28fa00.jpg" id="image_knr_fv5_lz"
+                        /></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

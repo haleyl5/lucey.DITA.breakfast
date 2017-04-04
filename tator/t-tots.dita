@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_n2s_gj5_lz">
+    <title> Tator-Tot Breakfast Bake </title>
+    <shortdesc>Did you ever think of making tator tots for breakfast? Now is your chance to swap out
+        hash browns for tator tots! <image href="../tator/tater-tots.jpg" id="image_mzs_ll5_lz"
+        /></shortdesc>
+    <taskbody>
+        <context>
+            <p>This breakfast bake is super easy and will please anyone lucky enough to try it! </p>
+            <p>Ingredients </p>
+            <ul id="ul_sjd_bk5_lz">
+                <li audience="mom">4 slices bacon, cooked and crumbled</li>
+                <li audience="armando">4 slices of seitan bacon </li>
+                <li audience="armando">4 blocks of tofu hotdogs</li>
+                <li audience="mom">1 lb ground breakfast sausage, no casings</li>
+                <li audience="mom">2½ cups sharp cheddar cheese, shredded, divided</li>
+                <li audience="armando">2 ½ cups Soymage vegan parmesan cheese </li>
+                <li audience="mom">2 cups whole milk</li>
+                <li audience="armando">2 cups almond milk</li>
+                <li audience="mom"> 3 large eggs</li>
+                <li audience="armando">2 cups of Ener-G egg replacer </li>
+                <li>½ tsp freshly ground black pepper</li>
+                <li>½ tsp onion powder</li>
+                <li>pinch of table salt (1/8 tsp)</li>
+                <li>2 lbs frozen tater tots</li>
+                <li>3 TB freshly chopped parsley for garnish</li>
+                <li>9x13 pan </li>
+                <li>Large skillet </li>
+                <li>Large bowl </li>
+            </ul>
+        </context>
+        <steps>
+            <step>
+                <cmd>Before you begin baking, turn on the oven and set the temperature to 350.</cmd>
+            </step>
+            <step>
+                <cmd audience="mom">In a large skillet, cook sausage over medium heat. Once it is
+                    browned and completely cooked, layer it on a 9x13 baking pan. sprinkle the
+                    cheese over the sausage </cmd>
+            </step>
+            <step>
+                <cmd audience="armando">In a large skillet, cook tofu hotdogs over medium heat. Once
+                    it is browned and completely cooked, layer it on a 9x13 baking pan. sprinkle the
+                    soymage vegan parmesan cheese over the hot dogs </cmd>
+            </step>
+            <step>
+                <cmd audience="mom">In a large bowl, whisk together milk, eggs, pepper, onion
+                    powder, and salt. Once it is thoroughly mixed, layer it over sausage and cheese.
+                </cmd>
+            </step>
+            <step>
+                <cmd audience="armando">In a large bowl, whisk together almond milk, Ener-G egg
+                    replacer , pepper, onion powder, and salt. Once it is thoroughly mixed, layer it
+                    over tofu hot dogs and soymage vegan parmesan cheese.</cmd>
+            </step>
+            <step>
+                <cmd>Layer frozen tator tots on top of mixture in the baking dish</cmd>
+            </step>
+            <step>
+                <cmd>Place baking dish in the already preheated oven on the middle rack. Bake for 35
+                    minutes </cmd>
+            </step>
+            <step>
+                <cmd audience="mom">Top with additional cheese and crumbled bacon. Cook for another
+                    10 minutes. </cmd>
+            </step>
+            <step>
+                <cmd audience="armando">Top with additional soymage vegan parmesan cheese and crumbled
+                    seitan bacon. Cook for another 10 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Let the dish cool for 10 minutes and then serve! </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

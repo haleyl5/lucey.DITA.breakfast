@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lqk_jz3_kz">
+    <title>Choosing the time and date </title>
+    <shortdesc>Deciding what day to dedicate to making a wonderfully big and yummy breakfast </shortdesc>
+    <taskbody>
+        <context>In order to make sure that the breakfast is the very best it can be, make sure you
+            pick a day where you have a lot of free time. You want to be able to enjoy the morning
+            without having to rush or head out early for other obligations! <image
+                id="image_fpw_mdj_kz"/><image placement="break"
+                href="calendar/aid2115167-v4-728px-Add-Events-to-the-iPad-Calendar-App-Step-3-Version-2.jpg"
+                align="center" id="image_o2w_ndn_lz"/></context>
+        <steps-unordered>
+            <step>
+                <cmd>Check your calendar in order to see which day works best. Make sure to choose a
+                    day that is free of other obligations so you are able to dedicate a lot of time
+                    to the breakfast </cmd>
+            </step>
+            <step>
+                <cmd>Decide on the day you want to make the breakfast</cmd>
+            </step>
+            <step>
+                <cmd>Once you have evaluated which day is the lucky winner, add this to your
+                    calendar so you do not forget </cmd>
+            </step>
+            <step>
+                <cmd><image id="image_kwb_wdj_kz"/><image placement="break" href="calendar/url.jpg"
+                        align="center" id="image_ogn_4dn_lz"/></cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>
