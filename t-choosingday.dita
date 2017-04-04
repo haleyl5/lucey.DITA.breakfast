@@ -7,9 +7,8 @@
         <context>In order to make sure that the breakfast is the very best it can be, make sure you
             pick a day where you have a lot of free time. You want to be able to enjoy the morning
             without having to rush or head out early for other obligations! <image
-                id="image_fpw_mdj_kz"/><image
-                href="../../Creating%20User%20Documentation%20/Breakfast%20DITA/breakfast/url.jpg"
-                id="image_m2c_qdj_kz"/></context>
+                id="image_fpw_mdj_kz"/><image href="images/date.jpg" id="image_gsq_dyv_lz"
+            /></context>
         <steps-unordered>
             <step>
                 <cmd>Check your calendar in order to see which day works best. Make sure to choose a
@@ -24,9 +23,8 @@
                     calendar so you do not forget </cmd>
             </step>
             <step>
-                <cmd><image id="image_kwb_wdj_kz"/><image
-                        href="../../Creating%20User%20Documentation%20/Breakfast%20DITA/breakfast/aid2115167-v4-728px-Add-Events-to-the-iPad-Calendar-App-Step-3-Version-2.jpg"
-                        id="image_frx_xdj_kz"/></cmd>
+                <cmd><image id="image_kwb_wdj_kz"/><image href="images/calendar.jpg"
+                        id="image_kbf_2yv_lz"/></cmd>
             </step>
         </steps-unordered>
     </taskbody>
