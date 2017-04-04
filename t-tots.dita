@@ -3,9 +3,10 @@
 <task id="task_n2s_gj5_lz">
     <title> Tator-Tot Breakfast Bake </title>
     <shortdesc>Did you ever think of making tator tots for breakfast? Now is your chance to swap out
-        hash browns for tator tots! <image href="../tator/tater-tots.jpg" id="image_mzs_ll5_lz"
+        hash browns for tator tots! <image href="images/tater-tots.jpg" id="image_tky_yyv_lz"
         /></shortdesc>
     <taskbody>
+        <prereq> <p conref="c-disclaimer.dita#disclaimer/almondmilkdisclaimer"></p></prereq>
         <context>
             <p>This breakfast bake is super easy and will please anyone lucky enough to try it! </p>
             <p>Ingredients </p>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Cookbook for Armando</title>
+ <topicref href="c-intro.dita"></topicref>
+ <topichead navtitle="Getting Started">
+  <topicmeta>
+   <shortdesc>All of these yummy recipes will be sure to make your taste buds very happy!.</shortdesc>
+  </topicmeta>
+  <topicref href="t-choosingday.dita" navtitle="Picking the date "></topicref>
+  <topicref href="m-websites.md" format="markdown"><topicmeta>
+   <shortdesc>Use these websites to find recipes </shortdesc>
+  </topicmeta>
+  </topicref>
+  <topicref href="l-wholefoods.dita" navtitle="Oh the places you go"></topicref>
+  <topicref href="l-cleaningkitchen.dita" navtitle="Cleaning Up"></topicref>
+ </topichead>
+ <topichead navtitle="Breakfast Recipes">
+  <topicref href="m-cranberry.md" format="markdown"><topicmeta>
+   <shortdesc>Recipe for Cranberry Mimosas </shortdesc>
+  </topicmeta>
+  </topicref>
+  <topicref href="l-bananalightweight.dita" navtitle="Banana Nut Flap Jacks"></topicref>
+  <topicref href="t-avocado.dita" format="markdown">
+   <topicmeta>
+    <shortdesc>TWhat better way to eat something than out of an avocado</shortdesc>
+   </topicmeta>
+  </topicref>
+  <topicref href="t-quiche.dita"></topicref>
+  <topicref href="t-tots.dita"></topicref>
+ </topichead>
+ <topichead navtitle="Final Stretch">
+  <topicref href="m-settingtable.md" format="markdown">
+   <topicmeta>
+    <shortdesc>Set the mood by setting the table</shortdesc>
+   </topicmeta>
+  </topicref>
+ <topicref href="m-final.md" format="markdown">
+  <topicmeta><shortdesc>Helpful tips and tricks as you finish breakfast</shortdesc>
+  </topicmeta>
+ </topicref>
+ </topichead>
+</map>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="disclaimer">
+ <title>Disclaimer</title>
+ <shortdesc>These are disclaimers for the recipes</shortdesc>
+ <conbody>
+  <p id="almondmilkdisclaimer">Almond milk must be used within 7-10 days after opening. It could casue food poisoning or other illnesses</p>
+  <p id="alcoholdisclaimer">If you are under the age of 21, you are not legally allowed to consume alcohol</p>
+ </conbody>
+</concept>
