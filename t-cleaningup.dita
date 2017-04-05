@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bb1_gjw_lz">
+    <title>Cleaning Up </title>
+    <shortdesc>As much as you don't want to, you'll have to clean up the kitchen.</shortdesc>
+    <taskbody>
+        <context> I will provide you with an easy guide for cleaning up after your breakfast.
+                <p>Steps for cleaning up the kitchen</p></context>
+        <steps>
+            <step>
+                <cmd>Store any leftover food in airtight containers. Place these containers in the
+                    fridge or give them to your guests to take home.</cmd>
+            </step>
+            <step>
+                <cmd>Once all the food is put away, put all of the dirty dishes in the dishwasher or
+                    hand wash them </cmd>
+            </step>
+            <step>
+                <cmd>Wipe off the counters and the kitchen table </cmd>
+            </step>
+            <step>
+                <cmd>Make sure no food has fallen on the floor, vacuum if needed! </cmd>
+            </step>
+            <step>
+                <cmd>Say farwell to your breakfast guests! </cmd>
+            </step>
+            <step>
+                <cmd>Now relax and sleep off your food coma! </cmd>
+                <info>
+                    <p><image href="images/timetoclean.jpg" id="image_llt_pkw_lz"/></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

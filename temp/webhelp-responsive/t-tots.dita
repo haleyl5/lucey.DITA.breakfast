@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/haleylucey/Desktop/lucey.dita.breakfast/temp/webhelp-responsive?><?workdir-uri file:/Users/haleylucey/Desktop/lucey.dita.breakfast/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_n2s_gj5_lz" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="title:1;4:12"> Tator-Tot Breakfast Bake </title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="shortdesc:1;5:16">Did you ever think of making tator tots for breakfast? Now is your chance to swap out
+        hash browns for tator tots! <image href="images/tater-tots.jpg" id="image_tky_yyv_lz" placement="inline" class="- topic/image " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="image:1;7:11"/></shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="taskbody:1;8:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="prereq:1;9:17"> <p class="- topic/p " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/c-disclaimer.dita" xtrc="p:1;7:32">Almond milk must be used within 7-10 days after opening. It could casue food poisoning or other illnesses</p></prereq>
+        <context class="- topic/section task/context " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="context:1;10:18">
+            <p class="- topic/p " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="p:2;11:16">This breakfast bake is super easy and will please anyone lucky enough to try it! </p>
+            <p class="- topic/p " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="p:3;12:16">Ingredients </p>
+            <ul id="ul_sjd_bk5_lz" class="- topic/ul " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="ul:1;13:36">
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:1;14:36">4 slices bacon, cooked and crumbled</li>
+                <li audience="armando" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:2;15:40">4 slices of seitan bacon </li>
+                <li audience="armando" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:3;16:40">4 blocks of tofu hotdogs</li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:4;17:36">1 lb ground breakfast sausage, no casings</li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:5;18:36">2½ cups sharp cheddar cheese, shredded, divided</li>
+                <li audience="armando" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:6;19:40">2 ½ cups Soymage vegan parmesan cheese </li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:7;20:36">2 cups whole milk</li>
+                <li audience="armando" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:8;21:40">2 cups almond milk</li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:9;22:36"> 3 large eggs</li>
+                <li audience="armando" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:10;23:40">2 cups of Ener-G egg replacer </li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:11;24:21">½ tsp freshly ground black pepper</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:12;25:21">½ tsp onion powder</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:13;26:21">pinch of table salt (1/8 tsp)</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:14;27:21">2 lbs frozen tater tots</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:15;28:21">3 TB freshly chopped parsley for garnish</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:16;29:21">9x13 pan </li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:17;30:21">Large skillet </li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="li:18;31:21">Large bowl </li>
+            </ul>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="steps:1;34:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:1;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:1;36:22">Before you begin baking, turn on the oven and set the temperature to 350.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:2;38:19">
+                <cmd audience="mom" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:2;39:37">In a large skillet, cook sausage over medium heat. Once it is
+                    browned and completely cooked, layer it on a 9x13 baking pan. sprinkle the
+                    cheese over the sausage </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:3;43:19">
+                <cmd audience="armando" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:3;44:41">In a large skillet, cook tofu hotdogs over medium heat. Once
+                    it is browned and completely cooked, layer it on a 9x13 baking pan. sprinkle the
+                    soymage vegan parmesan cheese over the hot dogs </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:4;48:19">
+                <cmd audience="mom" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:4;49:37">In a large bowl, whisk together milk, eggs, pepper, onion
+                    powder, and salt. Once it is thoroughly mixed, layer it over sausage and cheese.
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:5;53:19">
+                <cmd audience="armando" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:5;54:41">In a large bowl, whisk together almond milk, Ener-G egg
+                    replacer , pepper, onion powder, and salt. Once it is thoroughly mixed, layer it
+                    over tofu hot dogs and soymage vegan parmesan cheese.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:6;58:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:6;59:22">Layer frozen tator tots on top of mixture in the baking dish</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:7;61:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:7;62:22">Place baking dish in the already preheated oven on the middle rack. Bake for 35
+                    minutes </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:8;65:19">
+                <cmd audience="mom" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:8;66:37">Top with additional cheese and crumbled bacon. Cook for another
+                    10 minutes. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:9;69:19">
+                <cmd audience="armando" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:9;70:41">Top with additional soymage vegan parmesan cheese and crumbled
+                    seitan bacon. Cook for another 10 minutes</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="step:10;73:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-tots.dita" xtrc="cmd:10;74:22">Let the dish cool for 10 minutes and then serve! </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

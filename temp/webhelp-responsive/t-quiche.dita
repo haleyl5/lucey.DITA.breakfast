@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/haleylucey/Desktop/lucey.dita.breakfast/temp/webhelp-responsive?><?workdir-uri file:/Users/haleylucey/Desktop/lucey.dita.breakfast/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_irz_zm5_lz" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="title:1;4:12">Sun-Dried Tomato, Mushroom, And Spinach Quiche</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="shortdesc:1;5:16">Quiche is one of the most underrated breakfast dishes. There are so many toppings
+        that can be added to create a breakfast master piece. This easy to follow recipe will be a
+        crowd pleaser for all. <image href="images/quiche.jpg" id="image_o2l_xyv_lz" placement="inline" class="- topic/image " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="image:1;7:87"/></shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="taskbody:1;8:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="context:1;9:18">
+            <p class="- topic/p " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="p:1;10:16">Ingredients for crust and quiche </p>
+            <ul id="ul_sjd_bk5_lz" class="- topic/ul " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="ul:1;11:36">
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:1;12:21">1 tablespoon ground flax + 3 tablespoons water, mixed together</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:2;13:21">1 cup whole almonds, ground into flour</li>
+                <li audience="armando" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:3;14:40">1 cup gluten-free rolled oats or buckwheat groats, ground into flour</li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:4;15:36"> 1 cup of hearty oats, ground into flour</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:5;16:21">teaspoon dried parsley&gt;</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:6;17:21">1 teaspoon dried oregano</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:7;18:21">1/2 tsp kosher salt</li>
+                <li audience="armando" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:8;19:40">1 tbsp coconut oil</li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:9;20:36">1 tbsp olive oil</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:10;21:21">1-2.5 tbsp water, as needed</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:11;22:21">1 block (14-oz) firm tofu</li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:12;23:36">4 strips of bacon </li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:13;24:36"> 1/2 cup cubed ham</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:14;25:21">1 leek or yellow onion, thinly sliced</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:15;26:21">3 large garlic cloves, minced</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:16;27:21">3 cups (8-oz) sliced cremini mushrooms</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:17;28:21">1/2 cup fresh chives, finely chopped</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:18;29:21">1/2 cup fresh basil leaves, finely chopped</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:19;30:21">1/3 cup oil-packed sun-dried tomatoes, finely chopped</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:20;31:21">1 cup baby spinach</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:21;32:21">2 tbsp yeast</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:22;33:21">1 teaspoon dried oregano</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:23;34:21">3/4-1 teaspoon fine grain sea salt</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:24;35:21">Baking dish</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:25;36:21">Skillet</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="li:26;37:21">Food Processor </li>
+                   
+            </ul>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="steps:1;41:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:1;42:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:1;43:22">Preheat oven to 350. Grease a round 10-inch tart pan with oil.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:2;45:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:2;46:22"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="b:1;46:25">For the crust:</b> Whisk together flax and water mixture in a small bowl and
+                    set aside.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:3;49:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:3;50:22">In a large bowl, stir together the almond meal, oat flour (or buckwheat flour),
+                    parsley, oregano, and salt.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:4;53:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:4;54:22">Add in the flax mixture and oil. Stir until it looks as though it is all
+                    combined, adding the remaining water until the dough is sticky … kinda like
+                    cookie dough!  The dough should stick together when you press it between your
+                    fingers.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:5;59:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:5;60:22">Spread the dough over the base of the dish. Press the mixture evenly into the
+                    pan, working your way outward and up the sides of the pan. Poke a few fork holes
+                    in the dough so its breathable</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:6;64:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:6;65:22">Bake the crust at 350F for 13-16 minutes, allow to cool after.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:7;67:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:7;68:22"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="b:2;68:25">For the filling: </b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:8;70:19">
+                <cmd audience="armando" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:8;71:41">Break apart the tofu block and add into food processor. Process the tofu until
+                    smooth and creamy.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:9;74:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:9;75:22">In a skillet, add oil and saute the onion and garlic over medium heat for a few
+                    minutes. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:10;78:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:10;79:22">Stir in the mushrooms, add salt, and cook on medium-high heat for about 10-12
+                    minutes. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:11;82:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:11;83:22">Stir in the herbs, sun-dried tomatoes, spinach, yeast, oregano, salt, pepper,
+                    and red pepper flakes until combined. Cook until the spinach is wilted.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:12;86:19">
+                <cmd audience="mom" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:12;87:37">Stir in bacon and cubed ham </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:13;89:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:13;90:22">Remove the skillet from the heat</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:14;92:19">
+                <cmd audience="armando" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:14;93:41">Stir in tofu </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:15;95:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:15;96:22">Add filling to baked crust</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:16;98:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:16;99:22">Bake quiche at 375 for about 30-35 minutes </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:17;101:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:17;102:22">Let quiche sit for 10 minutes to cool</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="step:18;104:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-quiche.dita" xtrc="cmd:18;105:22">Serve and Enjoy :) </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

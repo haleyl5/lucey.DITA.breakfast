@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="coffee">
+    <title>Iced Cold Coffee</title>
+    <shortdesc>Coffee is the perfect pairing with any breakfast meal</shortdesc>
+    <taskbody>
+        <context> Coffee is easy to prepare especially this recipe! <image href="images/iced3.jpg"
+                id="image_apv_v3w_lz"/><p/><b>Ingredients</b>
+            <ul>
+                <li>1/2 cup of ground coffee (flavor is up to you)</li>
+                <li>4 cup of water</li>
+                <li audience="mom">1 cup of whole milk <i>or</i></li>
+                <li audience="armando">1 cup of almond milk</li>
+                <li>1 tsp of Cinnamon</li>
+                <li>Ice cubes</li>
+            </ul>
+        </context>
+        <steps>
+            <stepsection><b>Instructions</b></stepsection>
+            <step>
+                <cmd>Pour your ground coffee the top of the coffee machine.</cmd>
+            </step>
+            <step>
+                <cmd>Add 4 cups of water to the machine. Look for the compartment labeled
+                    "water".</cmd>
+            </step>
+            <step>
+                <cmd>Hit the on button to begin brewing coffee </cmd>
+            </step>
+            <step>
+                <cmd>Put coffee in a container and put it in the fridge. Let coffee cool a bit until
+                    it is chilled</cmd>
+            </step>
+            <step>
+                <cmd>Once coffee is cool, pour it into a glass</cmd>
+            </step>
+            <step>
+                <cmd>Add 1-3 coffee ice cubes!!</cmd>
+            </step>
+            <step>
+                <cmd>Add milk </cmd>
+            </step>
+            <step>
+                <cmd>Add cinnamon</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/haleylucey/Desktop/lucey.dita.breakfast/temp/webhelp-responsive?><?workdir-uri file:/Users/haleylucey/Desktop/lucey.dita.breakfast/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_qhm_zt5_lz" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="title:1;4:12">Caprese Stuffed Avocados </title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="shortdesc:1;5:16">I don't think I can go a day without eating something that has avocado in it or on
+        it. Avocados have become such a fad, everyone loves them. This recipe is to die for and
+        needs to be included in your brunch! </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="taskbody:1;8:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="context:1;9:18">
+            <p class="- topic/p " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="p:1;10:16">Below are the ingredients, materials, and steps needed to make this one of a kind
+                dish. </p>
+            <p class="- topic/p " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="p:2;12:16"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="b:1;12:19">Ingredients </b></p>
+            <ul id="ul_sjd_bk5_lz" class="- topic/ul " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="ul:1;13:36">
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="li:1;14:21">2 avocados, pitted</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="li:2;15:21">1/2 cup  cherry tomatoes, halved</li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="li:3;16:36">1/2 cup mini marinated mozzarella balls, halved</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="li:4;17:21">balsamic vinegar</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="li:5;18:21">Extra virgin olive oil</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="li:6;19:21">kosher salt</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="li:7;20:21">Freshly ground black pepper</li>
+                <li class="- topic/li " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="li:8;21:21">Basil </li>
+            </ul> 
+            
+            <p class="- topic/p " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="p:3;24:16"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="b:2;24:19">Instructions</b></p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="steps:1;26:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="step:1;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="cmd:1;28:22">Scoop out the insides of the avocado, leaving a small amount around the
+                    rim.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="step:2;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="cmd:2;32:22">Diced the scooped out avocado and set aside </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="step:3;34:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="cmd:3;35:22">In a large bowl add in diced avocado, tomatoes, balsamic, and olive oil. Mix
+                    together</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="step:4;38:19">
+                <cmd audience="mom" class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="cmd:4;39:37">Add in mozzerella balls</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="step:5;41:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="cmd:5;42:22">Add salt and pepper, mix everything together</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="step:6;44:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="cmd:6;45:22">Add the mixture to the avocado halves </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="step:7;47:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="cmd:7;48:22">Serve and eat up! </cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="info:1;49:23">
+                    <p class="- topic/p " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="p:4;50:24"><image href="images/avocado2.jpg" id="image_z4x_vyv_lz" placement="inline" class="- topic/image " xtrf="file:/Users/haleylucey/Desktop/lucey.dita.breakfast/t-avocado.dita" xtrc="image:1;50:81" dita-ot:image-width="600" dita-ot:image-height="600"/></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

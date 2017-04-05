@@ -1,6 +1,6 @@
 # Cranberry Mimosa
 
-![](http://del.h-cdn.co/assets/16/46/640x320/landscape-1479426677-delish-cranberry-mimosa-pin-03.jpg)
+![](http://del.h-cdn.co/assets/cm/15/11/320x160/54f8c6d2954f8_-_blood-orange-mimosa-1209-recipe-xl.jpg)
 
 Have you ever thought of creating a Mimosa with something other than OJ? Spice up this morning by making a Cranberry Mimosa! Cranberries are *not* just for the holiday's, enjoy this yummy treat in April too! 
 
